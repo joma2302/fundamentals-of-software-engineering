@@ -1,5 +1,5 @@
 # fundamentals-of-software-engineering
 Repository for Fundamentals of Software Engineering course.
 ## Student Info
-- Ініціали: М.Г.Колесник
+- Ініціали: Колесник М.Г.
 - Група: 372
